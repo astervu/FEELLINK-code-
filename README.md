@@ -52,7 +52,7 @@ void setup() {
 
 
 void loop() {
-//  code die kijkt of de switch werkt
+//  code die enkel gebeurd als de switch werkt
     if(digitalRead(SwitchPin) == HIGH){
             
 
