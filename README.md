@@ -2,7 +2,7 @@
 
 ## code versie 5 - on off switch
 
-```Arduino
+```cpp
 
 #include<SoftwareSerial.h>
 
@@ -147,7 +147,7 @@ void loop() {
 
 ## code versie 4 (test of switch werkt)
 
-```Arduino
+```cpp
 
 #include<SoftwareSerial.h>
 
@@ -276,7 +276,7 @@ void loop() {
 
 ## code versie 3
 
-```Arduino
+```cpp
 
 #include<SoftwareSerial.h>
 
@@ -400,7 +400,7 @@ void loop() {
 
 ## code versie 2
 
-```Arduino
+```cpp
 
 #include<SoftwareSerial.h>
 
@@ -504,7 +504,7 @@ void loop() {
 
 ## code versie 1 
 
-```Arduino
+```cpp
 
 #include<SoftwareSerial.h>
 
