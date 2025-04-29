@@ -138,6 +138,7 @@ void loop() {
     }
 }
 
+![image](https://github.com/user-attachments/assets/059161e5-ec04-4d3d-a69c-846aad740aa5)
 
 
 ## code versie 4 (test of switch werkt)
@@ -381,6 +382,10 @@ void loop() {
     
 }
 
+![image](https://github.com/user-attachments/assets/0603b8f1-7da2-4674-908f-35684bef4c51)
+
+
+
 ## code versie 2
 
 #include<SoftwareSerial.h>
@@ -477,6 +482,9 @@ void loop() {
     
 }
 
+![image](https://github.com/user-attachments/assets/be676976-23bc-4330-ac32-bebb3172485a)
+
+
 
 ## code versie 1 
 
@@ -510,3 +518,6 @@ void loop() {
     }
     
 }
+
+![image](https://github.com/user-attachments/assets/a9e4d760-9362-4c98-b8b4-e2c36ed57e69)
+
